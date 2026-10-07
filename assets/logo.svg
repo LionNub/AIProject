@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Insurance Incorporated">
+  <rect width="64" height="64" rx="14" fill="#0E3A5D"/>
+  <path d="M32 10 L52 20 V36 C52 47 43 54 32 58 C21 54 12 47 12 36 V20 Z" fill="#F4F7FA"/>
+  <path d="M32 16 L46 23 V35.5 C46 43.5 39.5 49 32 52.2 C24.5 49 18 43.5 18 35.5 V23 Z" fill="#0E3A5D"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#F4F7FA">II</text>
+</svg>
